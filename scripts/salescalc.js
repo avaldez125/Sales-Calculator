@@ -1,5 +1,5 @@
 addEventListener("load", main)
-
+//This is a comment as per the request
 function main() {
     btCalcSales.addEventListener("click", calculateSales)
 }
